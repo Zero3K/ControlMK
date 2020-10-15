@@ -11,5 +11,4 @@ and other types of commands.
 
 
 
-Redcl0ud
-http://phaseone.sytes.net
+Redcl0ud - http://phaseone.sytes.net
