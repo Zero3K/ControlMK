@@ -10,5 +10,9 @@ ControlMK is an utility which uses DirectInput controllers to emulate mouse, key
 and other types of commands.
 
 
+Screenshot
+==========
+
+![ControlMK Screenshot](screenshot.jpg)
 
 Redcl0ud - http://phaseone.sytes.net
